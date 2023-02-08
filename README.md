@@ -7,5 +7,4 @@ data-platform-elasticsearch-kube は、データ連携基盤において、DBに
 * OS: Linux OS  
 * CPU: ARM/AMD/Intel  
 * Kubernetes  
-* Elasticsearch 7.5.1
-
+* Elasticsearch 
