@@ -1,0 +1,16 @@
+
+GET /tag/_search
+{
+    "query": {
+        "match": {
+            "Product": "A3068"
+        }
+    },
+    "aggs": {
+        "duplicate_aggs": {
+            "terms": {
+                "field": "ProductTag.keyword"
+            }
+        }
+    }
+}
