@@ -8,3 +8,4 @@ data-platform-elasticsearch-kube は、データ連携基盤において、DBに
 * CPU: ARM/AMD/Intel  
 * Kubernetes  
 * Elasticsearch 
+
